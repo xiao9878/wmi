@@ -1,4 +1,4 @@
-module github.com/xiao9878/wmi1
+module github.com/xiao9878/wmi
 
 go 1.13
 
